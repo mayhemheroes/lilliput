@@ -1,0 +1,5 @@
+project: lilliput
+target: lilliput
+
+cmds:
+  - cmd: /examples -input @@
